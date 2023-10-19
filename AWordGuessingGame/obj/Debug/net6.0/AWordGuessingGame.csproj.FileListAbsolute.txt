@@ -1,0 +1,15 @@
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\bin\Debug\net6.0\AWordGuessingGame.exe
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\bin\Debug\net6.0\AWordGuessingGame.deps.json
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\bin\Debug\net6.0\AWordGuessingGame.runtimeconfig.json
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\bin\Debug\net6.0\AWordGuessingGame.dll
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\bin\Debug\net6.0\AWordGuessingGame.pdb
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.csproj.AssemblyReference.cache
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.AssemblyInfoInputs.cache
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.AssemblyInfo.cs
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.dll
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\refint\AWordGuessingGame.dll
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.pdb
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\AWordGuessingGame.genruntimeconfig.cache
+C:\Users\ValentynTukov\source\repos\AWordGuessingGame\AWordGuessingGame\obj\Debug\net6.0\ref\AWordGuessingGame.dll
